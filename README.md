@@ -4,7 +4,7 @@ l- 👋 Hi, I’m @VanyaCa Ivan Cabrera H. CDMX, México
 
 - 🌱 I’m currently learning: Maths, Digital Illustration and Web development, English, Chess
 
-- 💞️ I’m looking to collaborate on: creative web development project, data analysis
+- 💞️ I’m looking to collaborate on: creative web development project
 
 - 📫 How to reach me:
 Email: ivanchvcm@outlook.com
