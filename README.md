@@ -2,13 +2,13 @@ l- 👋 Hi, I’m @VanyaCa Ivan Cabrera H. CDMX, México
 
 - 👀 I’m interested in: Physics, Maths, Computer Science, Bioinformatics, Philosophy, and the Fine Arts.
 
-- 🌱 I’m currently learning: Maths, Digital Illustration and Web development, English, Chess
+- 🌱 I’m currently learning: Maths, Digital Illustration and Web development, English, Chess, Computer Science
 
-- 💞️ I’m looking to collaborate on: creative web development project
+- 💞️ I’m looking to collaborate on: 
 
 - 📫 How to reach me:
 Email: ivanchvcm@outlook.com
-Intitutional Email: vanyaca@ciencias.unam.mx
+Intitutional Email: ivanca@ciencias.unam.mx
 
 
 <!---
